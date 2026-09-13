@@ -1,0 +1,11 @@
+{
+  "name": "snapshots_diff",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Amber \u2014 osint helper",
+  "license": "MIT",
+  "main": "lib/snapshots_diff.js",
+  "scripts": {
+    "start": "node lib/snapshots_diff.js"
+  }
+}
